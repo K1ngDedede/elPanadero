@@ -1,7 +1,9 @@
-#El Panadero
+#Maxwell
 Entrega #1
 
 Programación Con Tecnologías Web
+
+    https://k1ngdedede.github.io/maxwell/
 
 ------------
 Luis José García
@@ -9,7 +11,9 @@ Luis José García
 201729547
 
 -----------
-Paleta de color: https://www.colourlovers.com/palette/580974/Adrift_in_Dreams
+Paleta de color: 
+
+    https://www.colourlovers.com/palette/580974/Adrift_in_Dreams
 
 Fonts:
 
