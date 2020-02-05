@@ -15,7 +15,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XKCqCRUZio0VJauVWEjG1NF5vg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,6 +31,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Crump\Documents\WorksBace\ElPanadero\media" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,11 +48,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580785587553</updated>
-      <workItem from="1580785589454" duration="1538000" />
+      <workItem from="1580785589454" duration="2178000" />
+      <workItem from="1580844135630" duration="3730000" />
+      <workItem from="1580852336558" duration="10453000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Notifications" timestamp="1580845646314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1580845646314" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1580852676959">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580852676959" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1580852685161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580852685161" />
   </component>
 </project>

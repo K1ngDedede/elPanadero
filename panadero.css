@@ -1,3 +1,28 @@
 body{
     background-color: #3B8686;
 }
+
+h1{
+    font-family: 'Bungee', cursive;
+    color: #3B8686;
+}
+
+#header{
+    background-color: #0B486B;
+    height: 100%;
+    padding: 2%;
+}
+
+#navigation{
+    width: 100%;
+    background-color: #A8DBA8;
+}
+
+#toptext{
+    padding-top: 2%;
+}
+
+.eot{
+    max-width: 10vw;
+    height: available;
+}
