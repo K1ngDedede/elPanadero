@@ -22,6 +22,11 @@ p{
     padding-top: 2%;
 }
 
+#footer{
+    background-color: #0B486B;
+    padding: 2%;
+}
+
 #navigation{
     width: 100%;
     background-color: #A8DBA8;
@@ -53,7 +58,7 @@ p{
 }
 
 .ich{
-    height: 300px;
+    height: 400px;
     object-fit: cover;
     border-radius: 5%;
 }
