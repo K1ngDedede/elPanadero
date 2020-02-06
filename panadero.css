@@ -15,6 +15,11 @@ p{
     font-family: 'Sulphur Point', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+
 #header{
     background-color: #0B486B;
     height: 100%;
@@ -25,6 +30,7 @@ p{
 #footer{
     background-color: #0B486B;
     padding: 2%;
+    color: #3B8686;
 }
 
 #navigation{
@@ -78,5 +84,14 @@ p{
 
 .normal{
     background-color: #A8DBA8;
+    margin: 2%;
 }
 
+.effect{
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.logo{
+    max-width: 30%;
+}
