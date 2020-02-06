@@ -7,6 +7,14 @@ h1{
     color: #3B8686;
 }
 
+h2, h3, h4, h5, h6{
+    font-family: 'K2D', sans-serif;
+}
+
+p{
+    font-family: 'Sulphur Point', sans-serif;
+}
+
 #header{
     background-color: #0B486B;
     height: 100%;
@@ -28,3 +36,30 @@ h1{
     max-width: 50%;
     height: available;
 }
+
+.eotblue{
+    width: 10vw;
+    object-fit: cover;
+}
+
+.boys{
+    max-width: 100%;
+    height: auto;
+    filter: grayscale(30%) sepia(40%);
+}
+
+.clear{
+    color: #CFF09E;
+}
+
+.ich{
+    height: 300px;
+    object-fit: cover;
+    border-radius: 5%;
+}
+
+.bigpadding{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
