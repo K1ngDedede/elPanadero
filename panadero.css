@@ -64,7 +64,7 @@ html{
 }
 
 .ich{
-    height: 400px;
+    height: 30em;
     object-fit: cover;
     border-radius: 5%;
 }
