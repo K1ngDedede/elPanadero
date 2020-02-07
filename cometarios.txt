@@ -1,0 +1,5 @@
+Estética:
+Se recomienda mostrar más fácilmente la barra de navegación ya que este se encuentra un poco oculto.
+Además, aunque es muy interesante los cambios realizados a los nombres de las secciones, estos pueden se confusos así que se recomienda poner entre paréntesis el significado.
+Tal vez poner más variedad de azules sería interesante.
+Poner una barra de navegación que se mueva con la pantalla facilitaría la navegación.
