@@ -1,0 +1,4 @@
+- Me gustan los colores
+- El menu de navegación es chevere pero no es fácil de encontrar. 
+  Tambien toca scroll hasta arriba para navegar si estas en la parte de abajo de la pagina
+- La página es muy responsive
